@@ -12,3 +12,4 @@ Note: The reconstruction training will be completed successfully but there will 
 11. Generate and save the synthetic data using the command 'python src/generate_and_save.py'
 12. Evaluate the synthetic data by using the command 'python src/evaluate_synth_fixed.py'
 13. Run jupyter notebooks for analysis
+Note: Change the directory to your working directory in each jupyter notebook.
